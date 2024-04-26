@@ -1,2 +1,2 @@
 # Random-Paragraph-Generator
-it generates para randomly.
+it generates para
